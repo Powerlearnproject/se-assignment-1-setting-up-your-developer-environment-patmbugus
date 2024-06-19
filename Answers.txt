@@ -1,0 +1,71 @@
+Windows Download and installation
+Follow the download link provided to get the installation files
+Run the downloaded file (Windows11Installer.exe) to start the Windows 11 Installation Assistant.
+
+VISUAL CODE STUDIO INSTALLATION
+Visit the official Visual Studio Code website: Download Visual Studio Code.
+Depending on your operating system, download the appropriate installer (.exe for Windows, 
+Once downloaded, run the installer file (VSCodeSetup.exe for Windows).
+Follow the installation wizard instructions:
+Select the installation location (default is usually C:\Program Files\Microsoft VS Code on Windows).
+Choose additional tasks like adding VS Code to the PATH or creating desktop shortcuts if desired.
+Complete the installation by clicking "Install" or "Next" and then "Finish".
+open the Vscode to install extensions
+
+Set Up Version Control System
+Steps for Installing Git,
+ Creating a GitHub Account,
+ Creating a Repository,
+ and Making the First Commit:
+ Installing
+ Git:
+   - Download Git from the official site: [Git Download](https://git-scm.com/downloads).
+   - Run the installer and follow the setup instructions, choosing your preferred options for PATH, line endings, and other settings.
+CREATION OF A GITHUB ACCOUNT open your web browser and go to the GitHub homepage: GitHub.
+Sign Up:Click on the Sign up button located in the upper-right corner of the page.
+Enter Your Details:
+Username: Choose a unique username. This will be your public handle on GitHub.
+Email Address: Enter a valid email address that you can access
+Password: Choose a strong password. Make sure it is at least 15 characters long or at least 8 characters long with a mix of letters, numbers, and symbols.
+Click on the Create account button.
+
+Install Necessary Programming Languages and Runtimes
+Visit the official Python website: Download Python.
+Click on the download button for the latest Python release.
+Run the downloaded installer (python-<version>.exe for Windows).
+Ensure you check the box "Add Python to PATH" before clicking "Install Now".
+Follow the installation prompts to complete the installation.
+Verify the installation by opening a command prompt and typing python --version
+
+Install Package Managers
+Install Pip is included with Python installation from Python 3.4 and above. To ensure pip is installed and updated:
+Open a command prompt.
+Run the following command to upgrade pip:
+python -m pip install --upgrade pip
+Verify the installation by typing:pip --version
+
+Configure a Database (MySQL)
+Download and install the MySQL database.
+Visit the official MySQL website: Download MySQL Installer.
+Download the MySQL Installer (mysql-installer-community-<version>.msi).
+Run the installer and choose the setup type (typically "Developer Default" or "Server Only").
+Follow the installation wizard:
+Configure the MySQL server (e.g., set a root password, configure networking options).
+Complete the installation process.
+Open MySQL Workbench to verify and manage your MySQL server
+
+Set Up Development Environments and Virtualization
+Use virtualization tools like Docker or virtual machines for isolated project environments.
+Steps (for Docker):
+Visit the official Docker website: Download Docker.
+Download and run the Docker Desktop installer for your operating system.
+Follow the installation prompts to complete the installation.
+Open Docker Desktop to ensure it is running.
+
+Explore Extensions and Plugins:
+Open Visual Studio Code.
+Click on the Extensions icon in the Activity Bar on the side of the window or press Ctrl+Shift+X.
+Search for extensions that match your needs (e.g., Python, GitLens, Prettier).
+Click "Install" to add the desired extensions.
+Configure the extensions as needed by following their specific setup instructions.
+
